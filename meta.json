@@ -1,0 +1,17 @@
+{
+  "version": "1.0.1",
+  "required_binaries": [
+    {
+      "name": "node",
+      "min_version": "18.0.0",
+      "reason": "执行 ima_api.cjs 脚本调用 IMA OpenAPI"
+    }
+  ],
+  "dependencies": [
+    {
+      "name": "腾讯ima",
+      "required": true,
+      "reason": "提供 ima_api.cjs 核心脚本和所有笔记 API"
+    }
+  ]
+}
