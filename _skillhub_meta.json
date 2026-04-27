@@ -1,0 +1,7 @@
+{
+  "name": "ima-sync",
+  "version": "1.0.1",
+  "source": "local",
+  "author": "workbuddy-user",
+  "description": "将AI生成的文档自动同步到腾讯ima笔记，保持丰富排版"
+}
